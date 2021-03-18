@@ -1,0 +1,51 @@
+
+
+body{
+    border: 3px solid red;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.skaletur{
+    font-style: italic;
+    color: blue;
+
+}
+
+.miðjun{
+    text-align: center;
+}
+
+.imagine{
+    color: red;
+    font-weight: bold;
+}
+
+a:visited{
+    color:red
+}
+
+a:hover{
+    color:yellow
+}
+
+a:active{
+    color:rgba(47, 255, 127, 0.644)
+
+}
+.raudur{
+    color:red
+}
+
+.Elvis{
+    color:blue
+}
+
+.vine{
+    color:darkred
+}
+
+.Xmen{
+    font-weight: bold
+}
